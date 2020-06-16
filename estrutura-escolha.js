@@ -1,4 +1,4 @@
-function acaoBotao (params) {
+function acaoBotao() {
     var valor01, valor02, resultado, operacao
 
     valor01 = prompt("Digite o primeiro valor: ")
